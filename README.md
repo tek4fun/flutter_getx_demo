@@ -1,6 +1,6 @@
 # flutter_demo
 
-A new Flutter project.
+Multi Flutter Sample using GetX.
 
 ## Getting Started
 
